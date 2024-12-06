@@ -147,6 +147,24 @@ const Contact = () => {
                 src="/access/twitter2.png"
               />
             </Link>
+            <Link href="https://github.com/oluekele">
+              <Image
+                style={{
+                  width: "50px",
+                  height: "50px",
+                  backgroundColor: "#fff",
+                  borderRadius: "50%",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+                width={100}
+                height={100}
+                alt="..."
+                className="link"
+                src="/access/github.jpg"
+              />
+            </Link>
             <Link href="https://www.linkedin.com/in/ekeleolu">
               <Image
                 width={100}
