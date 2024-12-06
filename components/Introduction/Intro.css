@@ -14,10 +14,10 @@
     right: 0;
     object-fit: cover;
     height: 80vh;
-    width: 400px;
+    width: 550px;
     border-radius: 36px;
     margin: 0 2rem;
-    filter: brightness(60%)
+    filter: brightness(70%)
 }
 .introContent{
     height: 100vh;
