@@ -93,20 +93,60 @@ const Contact = () => {
                 src={Facebook}
               />
             </Link>
-            <Image
-              width={100}
-              height={100}
-              alt="..."
-              className="link"
-              src={Youtube}
-            />
-            <Image
-              width={100}
-              height={100}
-              alt="..."
-              className="link"
-              src={Instagram}
-            />
+            <Link href="https://wwww.youtube.com/@EkeleOlu">
+              <Image
+                style={{
+                  width: "50px",
+                  height: "50px",
+                  backgroundColor: "#fff",
+                  borderRadius: "50%",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+                width={100}
+                height={100}
+                alt="..."
+                className="link"
+                src={Youtube}
+              />
+            </Link>
+            <Link href="https://www.instagram.com/olu5559/profilecard/?igsh=b2R0bTM1M3pjc3k5">
+              <Image
+                style={{
+                  width: "50px",
+                  height: "50px",
+                  backgroundColor: "#fff",
+                  borderRadius: "50%",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+                width={100}
+                height={100}
+                alt="..."
+                className="link"
+                src={Instagram}
+              />
+            </Link>
+            <Link href="https://x.com/ekele_olu?t=UO2CX1fBRVIJTFtb92JXyQ&s=08">
+              <Image
+                style={{
+                  width: "50px",
+                  height: "50px",
+                  backgroundColor: "#fff",
+                  borderRadius: "50%",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                }}
+                width={100}
+                height={100}
+                alt="..."
+                className="link"
+                src="/access/twitter2.png"
+              />
+            </Link>
             <Link href="https://www.linkedin.com/in/ekeleolu">
               <Image
                 width={100}

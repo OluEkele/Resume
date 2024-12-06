@@ -30,7 +30,7 @@ const Information = () => {
         width={500}
         height={500}
         src={Ekele}
-        alt="profile"
+        alt="Ekele React Developer Portfolio"
         className="bg"
       />
     </section>
